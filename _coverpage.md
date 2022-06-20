@@ -1,6 +1,6 @@
 <p align="center">
-<img src="./media/Javalogo.png" width="200" height="200"/>
-<img src="./media/行走的程序喵1.jpg" width="200" height="200"/>
+<img src="https://cdn.jsdelivr.net/gh/haifeng-ck/blogPic/202206201932424.png" width="200" height="200"/>
+<img src="https://cdn.jsdelivr.net/gh/haifeng-ck/blogPic/202206201932274.jpg" width="200" height="200"/>
 </p>
 <h1 align="center" style="color: #F79816; font-weight: bold;">CodeMiao-Java在线文档</h1>
 
