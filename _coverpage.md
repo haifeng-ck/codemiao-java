@@ -6,4 +6,4 @@
 
 [我的博客](https://blog.csdn.net/haifeng_ck?type=blog)
 [GitHub](https://github.com/haifeng-ck/codemiao-java)
-[开始阅读](README.md)
+[开始阅读](/base/)
