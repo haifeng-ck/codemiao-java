@@ -27,7 +27,8 @@
     * [枚举](base/b_06_枚举.md)
     * [注解](base/b_07_注解.md)
     * [异常Exception](base/b_08_异常Exception.md)
-    * [常用类](base/b_09_常用类.md)
+    * [Object类详解](base/b_09_Object类详解.md)
+    * [常用类](base/b_10_常用类.md)
     * 数据结构入门
     * 集合
     * 泛型
